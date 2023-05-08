@@ -1,3 +1,10 @@
+=================================================================================
+GOROOT = “C:\Go”
+GOPATH = “C:\Projects\Go”
+https://www.freecodecamp.org/news/setting-up-go-programming-language-on-windows-f02c8c14e2f/
+=================================================================================
+
+
 REST API desde cero en golang
 
 https://www.youtube.com/watch?v=BFgLEEcM58s

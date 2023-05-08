@@ -1,8 +1,9 @@
 package main
 
 import (
-	"./server"
 	"fmt"
+
+	"./server"
 )
 
 func main() {
